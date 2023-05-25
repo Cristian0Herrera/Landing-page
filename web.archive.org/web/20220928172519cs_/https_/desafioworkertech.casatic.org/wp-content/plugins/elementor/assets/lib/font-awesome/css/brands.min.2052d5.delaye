@@ -1,0 +1,26 @@
+/*!
+ * Font Awesome Free 5.15.3 by @fontawesome - https://fontawesome.com
+ * License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License)
+ */
+@font-face{font-family:"Font Awesome 5 Brands";font-style:normal;font-weight:400;font-display:block;src:url(https://web.archive.org/web/20220928172533im_/https://desafioworkertech.casatic.org/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.eot);src:url(/web/20220928172533im_/https://desafioworkertech.casatic.org/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.eot#iefix) format("embedded-opentype"),url(/web/20220928172533im_/https://desafioworkertech.casatic.org/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.woff2) format("woff2"),url(/web/20220928172533im_/https://desafioworkertech.casatic.org/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.woff) format("woff"),url(/web/20220928172533im_/https://desafioworkertech.casatic.org/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.ttf) format("truetype"),url(/web/20220928172533im_/https://desafioworkertech.casatic.org/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.svg#fontawesome) format("svg")}.fab{font-family:"Font Awesome 5 Brands";font-weight:400}
+/*
+     FILE ARCHIVED ON 17:25:33 Sep 28, 2022 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 23:38:17 May 24, 2023.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  captures_list: 79.36
+  exclusion.robots: 0.139
+  exclusion.robots.policy: 0.125
+  cdx.remote: 0.096
+  esindex: 0.014
+  LoadShardBlock: 44.809 (3)
+  PetaboxLoader3.datanode: 82.573 (5)
+  load_resource: 163.853
+  PetaboxLoader3.resolve: 86.156
+  loaddict: 56.729
+*/
